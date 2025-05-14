@@ -51,8 +51,8 @@ h4{
 }
 ul, ol {
     padding : 2rem ; 
+    text-align : left ; 
 }
 p{
     padding : 2rem;
-
 }
