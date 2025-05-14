@@ -1,0 +1,35 @@
+h1{
+    margin : 10px ; 
+    font-family: sans-serif;
+    text-align : center ; 
+    font-size : 3rem ;
+    font-weight: bold ; 
+    text-decoration : underline ; 
+
+}
+body{
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height : 100vh; 
+}
+.block {
+    display : block ; 
+    margin: auto ; 
+    border-radius : 25px;
+    width: min(70vw, 500px ); 
+    box-shadow : 0 0 20px 
+}
+#contents {
+    margin-top : 2rem ; 
+    min-height: 200px;
+    border: 2px solid black ; 
+    text-align : left ; 
+    background-color: rgb(240,240,240); 
+}
+.recipe {
+    padding : 2px ; 
+    font-size : 1.5rem ; 
+}
+a{
+    text-decoration: none ;
+    color : black;
+}
