@@ -10,6 +10,8 @@ h1{
 body{
     background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
     height : 100vh; 
+    overflow: hidden;
+    
 }
 .block {
     display : block ; 
